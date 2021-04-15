@@ -1,0 +1,5 @@
+branch-defaults:
+  main:
+    environment: Cloudserverapplication-env-1
+global:
+  profile: eb-cli
