@@ -2,9 +2,9 @@
 
 # cloud-Servers
 ### author Nassir Abegaz
-- [PR](https://github.com/nassir1976/vendor)
-- [CLI](https://github.com/nassir1976/driver)
-- [GUI](https://github.com/nassir1976/driver)
+
+- [CLI](http://Cloudserverapplication-env-1.eba-kjmxem3k.us-west-2.elasticbeanstalk.com)
+- [GUI](https://us-west-2.console.aws.amazon.com/ec2/v2/home?region=us-west-2#InstanceDetails:instanceId=i-06541e44949303c2a)
 
 ### Overview 
 
