@@ -3,10 +3,8 @@
 # cloud-Servers
 ### author Nassir Abegaz
 
+- [CLI](http://http://myapplication-env.eba-c8cpsvva.us-west-2.elasticbeanstalk.com/)
 
-
-
-- [CLI](http://Cloudserverapplication-env-1.eba-kjmxem3k.us-west-2.elasticbeanstalk.com)
 - [GUI](https://us-west-2.console.aws.amazon.com/ec2/v2/home?region=us-west-2#InstanceDetails:instanceId=i-06541e44949303c2a)
 
 ### Overview 
