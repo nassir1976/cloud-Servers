@@ -1,14 +1,14 @@
 branch-defaults:
   dev:
-    environment: Cloudserverapplication-env-1
+    environment:Myapplication-env
   main:
-    environment: Cloudserverapplication-env-1
+    environment: Myapplication-env
 environment-defaults:
-  Cloudserverapplication-env-1:
+  Myapplication-env:
     branch: null
     repository: null
 global:
-  application_name: cloud-serverApplication
+  application_name: myapplication
   branch: dev
   default_ec2_keyname: null
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
