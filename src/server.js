@@ -12,6 +12,11 @@ app.use(logger);
 
 
 // build out routes -> with querystring & request parameter
+app.get('/',(req,res)=>{
+  res.status(200).send('hellow africa')
+
+})
+
 app.get('/person', logger, validator, (req, res, next) => {
   let resObject = {
     name: req.query.name

@@ -1,14 +1,14 @@
 branch-defaults:
   dev:
-    environment:Myapplication-env
+    environment: Myfirstapplication-env-1
   main:
-    environment: Myapplication-env
+    environment: Myfirstapplication-env-1
 environment-defaults:
-  Myapplication-env:
+  Myfirstapplication-env-1:
     branch: null
     repository: null
 global:
-  application_name: myapplication
+  application_name: myfirstApplication
   branch: dev
   default_ec2_keyname: null
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
